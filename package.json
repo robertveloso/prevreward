@@ -6,7 +6,7 @@
     "email": "robertluizveloso@gmail.com"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "history": "^4.10.1",
     "polished": "^3.4.2",
